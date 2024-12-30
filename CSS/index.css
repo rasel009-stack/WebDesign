@@ -1,6 +1,6 @@
 * {
     margin: 0;
-    font-family: poppins;
+    font-family: Poppins;
 }
 
 
@@ -39,8 +39,6 @@ nav>ul>li>a:hover{
 nav>ul>li{
     list-style-type: none;
 }
-
-
 
 .nav-2nd-container{
     display: flex;
