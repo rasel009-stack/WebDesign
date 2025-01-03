@@ -61,3 +61,35 @@ nav>ul>li{
     font-weight: bold;
     cursor: pointer;
 }
+
+.hero-section{
+    background-image: url(../images/shapes.png);
+    height: 601px;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 200px;
+}
+
+.hero-text{
+    margin-top: 180px;
+    height: 600px;
+    align-items: center;
+}
+
+.hero-text>h1{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.hero-text>p{
+    font-size: 20px;
+    color: #615f5a;
+    margin-bottom: 20px;
+}
+
+.hero-img{
+    margin-top: 18px;
+    height: 588px;
+    width: 500px;
+}
