@@ -63,7 +63,7 @@ nav > ul > li {
 }
 
 .hero-section {
-  background-image: url(./images/shapes.png);
+  background-image: url(../Images/shapes.png);
   height: 601px;
   display: flex;
   justify-content: space-evenly;
