@@ -121,3 +121,7 @@ nav > ul > li {
   transform: scale(1.2);
   transition-delay: 0.5s;
 }
+
+.image-container{
+  margin-left: 200px;
+}
