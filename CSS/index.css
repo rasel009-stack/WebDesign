@@ -1,6 +1,7 @@
 * {
   margin: 0;
   font-family: Poppins;
+  
 }
 
 .nav-container {
@@ -124,4 +125,11 @@ nav > ul > li {
 
 .image-container{
   margin-left: 200px;
+  margin-right: 101px;
 }
+
+.review-section{
+  display: flex;
+  overflow: hidden;
+}
+
